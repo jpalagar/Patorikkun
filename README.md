@@ -3,12 +3,11 @@
 <!--
    Languages and Tools
 -->
-## 🛠️ Languages and Tools
-* I mostly code in React w/ Typescript, Next and GraphQL.
+## 🛠️ my toolbox
+* Currently, I code a lot using React w/ Typescript, Next and GraphQL.
 * Comfortable with any styling tools / CSS frameworks, but I prefer styled-components
-* Same with content management systems, but Contentful is my go-to
-* Vue, Angular and Svelte for alternative web frameworks
-* Unity, Unreal Engine for game dev
+* I also do content and UI/UX designs, usually with Figma.
+* For game development, I mostly use Unity.
 
 
 <!--
